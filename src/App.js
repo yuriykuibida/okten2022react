@@ -1,8 +1,9 @@
-import Simpsons from "./components/simpsons/simpsons";
+import Characters from "./components/characters/Characters";
+
 
 function App() {
   return ( <div>
-        <Simpsons/>
+        <Characters/>
       </div>
   )
 }
